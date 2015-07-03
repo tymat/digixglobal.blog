@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tymat.github.io
+title: DigixGlobal
+tagline: News and Updates
+description: The official blog of DigixGlobal Pte Ltd
+paginate: 5
